@@ -13,7 +13,7 @@ Building production systems @ Merlin Entertainments · First Class CS Graduate
 
 ## 🚀 About me
 
-- 💼 Operations Controller & Software Engineer at **Chessington World of Adventures** (Merlin Entertainments)
+- 💼 Operations Controller at **Chessington World of Adventures** (Merlin Entertainments)
 - 🎓 **First Class BSc Computer Science** — Kingston University, 2025
 - 💬 Ask me about **Node.js, React, SQL, Power BI, or building operational tools**
 - 🥋 Junior black belt in Wing Chun Kung Fu
