@@ -86,6 +86,13 @@ A mobile-friendly operational hub for duty managers at Chessington, centralising
 
 ---
 
+### 🛡️ StaySafe
+`React Native` `Expo` `Google Maps` `Node.js`
+
+A personal safety app built with React Native and Expo — live location mapping, destination search, route generation, activity planning, and trusted contact management in a single mobile interface. Built in collaboration with [Canute D'Souza](https://github.com/BetaCan).
+
+---
+
 ### 📚 Personal Book Manager
 `Kotlin` `Jetpack Compose` `Room` `Android`
 
@@ -96,7 +103,7 @@ An Android app for tracking reading lists and progress, built with Jetpack Compo
 ### 🌐 Campus Connect
 `React` `Node.js` `Express` `MySQL` `Mapbox` `JWT`
 
-Full-stack web platform built during a final year project — React frontend with Mapbox-based activity discovery, JWT authentication, and protected routing. Node.js/Express REST API backend with MySQL persistence, Joi validation, and bcrypt password hashing.
+Full-stack web platform built as a final year project — React frontend with Mapbox-based activity discovery, JWT authentication, and protected routing. Node.js/Express REST API backend with MySQL persistence, Joi validation, and bcrypt password hashing.
 
 ---
 
