@@ -93,10 +93,10 @@ An Android app for tracking reading lists and progress, built with Jetpack Compo
 
 ---
 
-### 🌐 CSE Connect Platform
+### 🌐 Campus Connect
 `React` `Node.js` `Express` `MySQL` `Mapbox` `JWT`
 
-Full-stack web platform built during a summer internship — React frontend with Mapbox-based activity discovery, JWT authentication, and protected routing. Node.js/Express REST API backend with MySQL persistence, Joi validation, and bcrypt password hashing.
+Full-stack web platform built during a final year project — React frontend with Mapbox-based activity discovery, JWT authentication, and protected routing. Node.js/Express REST API backend with MySQL persistence, Joi validation, and bcrypt password hashing.
 
 ---
 
