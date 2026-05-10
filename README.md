@@ -16,7 +16,7 @@ Building production systems · First Class CS Graduate
 - 💼 Operations Controller at **Chessington World of Adventures** (Merlin Entertainments)
 - 🎓 **First Class BSc Computer Science** - Kingston University, 2025
 - 🥋 Junior black belt in Wing Chun Kung Fu
-- 💎 Platinum trophies should be accepted on CVs as professional experience (38 and counting)
+- 💎 Platinum trophies should be accepted on CVs as professional experience (38 & counting)
 - 📫 Reach me: **eesagurling@gmail.com**
 
 ---
