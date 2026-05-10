@@ -3,7 +3,7 @@
 # Hey, I'm Eesa 👋
 
 **Software Engineer & Data Analyst**
-Building production systems @ Merlin Entertainments · First Class CS Graduate
+Building production systems · First Class CS Graduate
 
 ![Profile views](https://komarev.com/ghpvc/?username=EGExcelsior&color=blue&style=flat)
 
