@@ -17,7 +17,6 @@ Building production systems · First Class CS Graduate
 - 🎓 **First Class BSc Computer Science** - Kingston University, 2025
 - 🥋 Junior black belt in Wing Chun Kung Fu
 - 💎 Platinum trophies should be accepted on CVs as professional experience (38 & counting)
-- 📫 Reach me: **eesagurling@gmail.com**
 
 ---
 
